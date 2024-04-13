@@ -1,0 +1,14 @@
+body {
+    background: linear-gradient(to right, red, blue);
+}
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+}
+.button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
